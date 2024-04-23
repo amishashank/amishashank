@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amishashank](https://github.com/amishashank)
 
-- 📫 How to reach me **shashankpandey8797@gmail.com**
+- 📫 How to reach me **helloiamshashank@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EeY2KZs9uyOwPzsAiiQdc3CFxK-Dy9A9/view?usp=drive_link](https://drive.google.com/file/d/1EeY2KZs9uyOwPzsAiiQdc3CFxK-Dy9A9/view?usp=drive_link)
 
