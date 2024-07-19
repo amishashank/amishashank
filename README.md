@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **helloiamshashank@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EeY2KZs9uyOwPzsAiiQdc3CFxK-Dy9A9/view?usp=drive_link](https://drive.google.com/file/d/1EeY2KZs9uyOwPzsAiiQdc3CFxK-Dy9A9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r0knvOjp9TQ_p8BnX5IMzG6cvyDSHcVJ/view?usp=drive_link]()
 
 - ⚡ Fun fact **I think I'm very curious to get knowledge about new things and new technology.**
 
