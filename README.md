@@ -93,6 +93,22 @@ I'm a Full-Stack Developer with **1+ year of professional experience** building 
 
 ## 🏆 Featured Projects
 
+### 🏪 [Inventory Management SaaS Platform](https://github.com/amishashank/Inventory-Management)
+**React | Spring Boot | PostgreSQL | JWT Authentication**
+
+A comprehensive multi-tenant inventory management system for shopkeepers and small businesses.
+
+- Built **Full-Stack SaaS** with React 19 (Vite) frontend and Spring Boot 3.2 backend
+- Implemented **Dynamic GST Billing Engine** with automated CGST/SGST calculation and tax invoice generation
+- Designed **Product & Category Management** with real-time stock tracking and low-stock alerts
+- Created **Discount & Scheme Simulation** for promotional pricing and forecasted quantities
+- Developed **Complete Billing Workflow** with cart management, customer tracking, and historical bill records
+- Secured with **JWT Authentication** and **Spring Security** with role-based access control
+
+**Tech Stack:** React 19, Vite, Tailwind CSS v4, Spring Boot 3.2, Spring Security, PostgreSQL, JPA/Hibernate, Axios
+
+---
+
 ### 🏥 [Aarogyam – Healthcare & Wellness Platform](https://github.com/amishashank)
 **MERN Stack | React Native | JWT Authentication**
 
