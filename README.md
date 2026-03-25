@@ -12,7 +12,7 @@
 
 I'm a Full-Stack Developer with **1+ year of professional experience** building production-grade applications using modern technologies. I specialize in creating scalable backend architectures, secure RESTful APIs, and seamless user experiences across web and mobile platforms.
 
-- 🔭 Currently working as **Full-Stack Developer Intern** at **Samishti Infotech Pvt. Ltd.**
+- 🔭 Currently working as **Full-Stack Developer** at **Samishti Infotech Pvt. Ltd.**
 - 💼 Previously worked at **Digisure Technologies** as Junior Software Developer Intern
 - 🎓 **MCA Graduate** from Galgotias University
 - 🌱 Continuously learning and exploring new technologies
