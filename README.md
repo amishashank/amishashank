@@ -23,7 +23,7 @@ I'm a Full-Stack Developer with **1+ year of professional experience** building 
 
 ## 💼 Professional Experience
 
-### Full-Stack Developer Intern | Samishti Infotech Pvt. Ltd.
+### Full-Stack Developer | Samishti Infotech Pvt. Ltd.
 *Oct 2025 – Present | Pune, India*
 
 - 🏥 Developing a healthcare and wellness platform (**Aarogyam**) using MERN stack and React Native, serving **1,000+ users**
